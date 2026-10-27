@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Aurove Motors">
+  <rect width="64" height="64" rx="12" fill="#0B0E0D"/>
+  <path d="M17 47 32 17l15 30" fill="none" stroke="#EDEAE2" stroke-width="3" stroke-linecap="square"/>
+  <path d="M24 37h16" stroke="#B86B3F" stroke-width="3" stroke-linecap="square"/>
+  <path d="M32 17v9" stroke="#EDEAE2" stroke-width="3" stroke-linecap="square"/>
+</svg>
