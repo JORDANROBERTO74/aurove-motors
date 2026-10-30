@@ -1,0 +1,9 @@
+Third-party assets
+
+The following files were supplied with the original v0 scaffold. Their
+authorship is unverified and they are not covered by the repository license:
+
+- public/assets/*.webp
+- public/video/r1-film.mp4
+
+Replace them with assets whose rights are known before commercial use.

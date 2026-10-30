@@ -51,3 +51,8 @@ Before any commercial use, replace the imagery and film with assets whose rights
 - Live: <https://aurove-motors.vercel.app>
 - Vercel project linked to `main`; no environment variables required (`NEXT_PUBLIC_SITE_URL` optional).
 - Release: `v1.0.0`.
+
+## License note
+
+This repository contains derivative work. The license covers only the original
+contributions of the copyright holder. See [LICENSE](../LICENSE).

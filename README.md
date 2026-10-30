@@ -107,6 +107,6 @@ Any Node host works with `pnpm build && pnpm start`. The site has no server-side
 
 ## License and provenance
 
-Code is released under the [MIT License](LICENSE). The brand, name and copy are original to this project.
+Code and brand are proprietary, all rights reserved. See [LICENSE](LICENSE) and [NOTICE](NOTICE). The brand, name and copy are original to this project.
 
 The layout and motion vocabulary derive from a v0-generated scaffold; the identity, palette, typography, copy, routing, SEO and structure were replaced. Asset provenance and residual risks are documented in [docs/provenance.md](docs/provenance.md).
